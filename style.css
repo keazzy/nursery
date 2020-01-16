@@ -200,7 +200,7 @@ nav ul li a:hover, nav ul li a.current{
 .page2 .box-img {
   float: right;
   width: 50%;
-  background: url('../images/home2.jpg') no-repeat;
+  background: url('images/home2.jpg') no-repeat;
   background-size: cover;
   min-height: 100%;
 
@@ -218,7 +218,7 @@ nav ul li a:hover, nav ul li a.current{
 .page3 .box-img {
   float: left;
   width: 50%;
-  background: url('../images/home3.jpg') no-repeat;
+  background: url('images/home3.jpg') no-repeat;
   background-size: cover;
   min-height: 100%;
 
