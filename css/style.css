@@ -115,15 +115,15 @@ nav ul li a:hover, nav ul li a.current{
 }
 
 .slide1 {
-  background-image: url("../images/4k-wallpaper-adorable-blur-boy-1148998.jpg");
+  background-image: url("https://res.cloudinary.com/balogundeleke/image/upload/v1579167190/4k-wallpaper-adorable-blur-boy-1148998_l42vsh.jpg");
 }
 
 .slide2 {
-  background-image: url("../images/girl.jpg");
+  background-image: url("https://res.cloudinary.com/balogundeleke/image/upload/v1579167188/girl_fsazka.jpg");
 }
 
 .slide3 {
-  background-image: url("../images/three-children-sitting-on-stairs-1212805.jpg");
+  background-image: url("https://res.cloudinary.com/balogundeleke/image/upload/v1579167190/three-children-sitting-on-stairs-1212805_amdxe1.jpg");
 }
 
 .slide-content {
@@ -185,7 +185,7 @@ hr{
 .page .box-img {
   float: left;
   width: 50%;
-  background: url('../images/home1.jpg') no-repeat;
+  background: url('https://res.cloudinary.com/balogundeleke/image/upload/v1579167186/home1_gqlatx.jpg') no-repeat;
   background-size: cover;
   min-height: 100%;
 
@@ -203,7 +203,7 @@ hr{
 .page2 .box-img {
   float: right;
   width: 50%;
-  background: url('../images/home2.jpg') no-repeat;
+  background: url('https://res.cloudinary.com/balogundeleke/image/upload/v1579167187/home2_ikosv6.jpg') no-repeat;
   background-size: cover;
   min-height: 100%;
 
@@ -221,7 +221,7 @@ hr{
 .page3 .box-img {
   float: left;
   width: 50%;
-  background: url('images/home3.jpg') no-repeat;
+  background: url('https://res.cloudinary.com/balogundeleke/image/upload/v1579167187/home3_tx6pje.jpg') no-repeat;
   background-size: cover;
   min-height: 100%;
 
