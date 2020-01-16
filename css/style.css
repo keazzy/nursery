@@ -338,9 +338,9 @@ hr{
 video {
   right: 0;
   bottom: 0;
-  min-width: 99.9%;
+  min-width: 90%;
   min-height: 100%;
-  width: 99.9%;
+  width: 99%;
   height: auto;
   z-index: -100;
 }
